@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00001100101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns00001100101" font="Open Sans" controllayout="npnxnanbsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="pxabnsnfns00001100101" font="Open Sans" controllayout="pxabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="npxnabnsnfns00001100101" font="Open Sans" controllayout="npxnabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="npnxnanbnsnfns00001100101" font="Open Sans" controllayout="npnxnanbnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="pxabnsnfns00001100100" font="Open Sans" controllayout="pxabnsnfns00001100100" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Современные Технологии Каротажей в Процессе Бурения (LWD)" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="false" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns00001100101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001100101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns00001100101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00001100101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001100100">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pxabnsnfns00001100101">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pxabnsnfns00001100101">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Open Sans">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5w0yM1qjg3C" displaytext="Part1 - Intro LWD" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5w0yM1qjg3C.6EIW25aTWmO" displaytext="Введение в LWD и операции, связанные с бурением скважин" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.5XJr1sPj5ml" displaytext="Содержание" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6FP7ImbuKas" displaytext="«Каротаж в процессе бурения (LWD или измерения в процессе бурения (MWD), взаимозаменяемые термины) – это общее название, описывающее системы и техники для сбора данных с забоя при бурении без необходимости поднимать буровой инструмент из скважины» " expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6EwqRfyrrrI" displaytext="Сравнение технологий MWD и LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.66OkUEXN71P" displaytext="Стадии строительства скважины и LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6TK51B6y4aD" displaytext="Проверка понимания" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.5nPjoiaGf30" displaytext="Сопоставьте виды каротажа и стадии строительства скважины, в которых они наиболее применимы:" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6KmQAxxZPwg" displaytext="Отличия LWD от каротажа на кабеле" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6aSsuTlANeJ" displaytext="Наземное оборудование и Программное Обеспечение" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6AGln7IXbl0" displaytext="Функциональная схема работы наземного оборудования с приборами LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.5kNEig3K7LP" displaytext="Глубина и измерения приборов LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.5ZbzSe33oTu" displaytext="Глубина и измерения приборов LWD. Графическое представление" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.5tJ94bwXBPv" displaytext="Что такое «непромер» и для чего нужны данные КНБК" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.5hflVhxWfub" displaytext="Работа с данными приборов в наземном ПО во время операций " expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.67tfpOU1zf0" displaytext="Работа с данными приборов в наземном ПО после операций " expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6o3RgRGBh58" displaytext="Форматы данных предоставляемых заказчику" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6Yt6KAKnewC" displaytext="Компоненты приборов LWD и общие принципы работы" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6d2mu9uVrDS" displaytext="Компоненты приборов LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.5zTNRC4M5NK" displaytext="Компоненты приборов LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6KL4ay0GFnY" displaytext="Компоненты приборов LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6prcruaWCrI" displaytext="Hotspot" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.5uItItuIMo4" displaytext="Общие принципы работы приборов LWD " expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6WNiTCe070d" displaytext="LWD Операции: планирование" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.5fVCA2Ud7r4" displaytext="LWD Операции: осуществление работы" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6FflZlAqZuT" displaytext="*Измерение приборов и внешняя оценка состояния" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6gbfVZEyUA9" displaytext="LWD Операции: осуществление работы" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6o8Xjskh3yN" displaytext="LWD Операции: оценка качества работы" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6mUzOSVKfyT" displaytext="Проверка понимания" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.6NBlsu8Jl5Z" displaytext="Резюме" expand="false" type="slide" />
+            <slidelink slideid="_player.5w0yM1qjg3C.62Tc98R0m2H" displaytext="Предположите основное функциональное назначение прибора, для которого вы идентифицировали внешние элементы:" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Itm9eGYZL5" displaytext="Part2 - GR and Induction" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Itm9eGYZL5.5w25fktJCtV" displaytext="Традиционные приборы LWD и их измерения." expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.5mWZysHUe57" displaytext="Содержание" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6eV4BvV5BTW" displaytext="Гамма каротаж (ГК)" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.5yCvNdSe278" displaytext="Гамма каротаж (ГК) – особенности детектора" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6MH2B6axtJo" displaytext="Гамма каротаж (ГК) – Особенности реализации видов ГК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6gIpZK9ZtRu" displaytext="Гамма каротаж (ГК) – Поправки к измерениям" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6pUV3LFyHSp" displaytext="Образцы определения поправок к ГК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6hMoT48CFNV" displaytext="Индукционный каротаж (ИК) и боковой каротаж (БК)" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6Vso14DIlS6" displaytext="Индукционный каротаж (ИК) и боковой каротаж (БК)" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6h62PpxRNHz" displaytext="Индукционный каротаж (ИК) и боковой каротаж (БК) поправки к измерениям" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6jTpycl1Js8" displaytext="Индукционный каротаж (ИК) поправки к измерениям" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.5hVrAxdyoeM" displaytext="ИК: состояние прибора" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6hIDMrTWe0b" displaytext="Индукционный каротаж (ИК) - Различия в кривых" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6KNAfazouaG" displaytext="Индукционный каротаж (ИК) - Примеры эффектов окружающей среды на измерения" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.62EagqehEyx" displaytext="Индукционный каротаж (ИК) - Эффект анизотропии" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6NoeKeaXcfL" displaytext="Индукционный каротаж (ИК) - Эффект поляризации" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.5iRxvPUJMM8" displaytext="Индукционный каротаж (ИК) - Диэлектрический эффект" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6RGGDqssRyk" displaytext="Используя упрощённую формулу Арчи, по данным каротажа, оцените процент содержания углеводородов в коллекторе:" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.5cbFleVjoBM" displaytext="Резюме" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.5uDNGJjZVsn" displaytext="На синтетическом каротаже гаммы и ИК расставьте соответствующие измерениям зоны измерений:" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.67pVZ8I42lL" displaytext="Как на выходные значения гаммы, в единицах API, повлияет следующее изменение параметров и поправочных коэффициентов: за счёт размывов увеличился диаметр скважины, без отображения в поправочных коэффициентах" expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.5fxCPcUMM2y" displaytext="Как на выходные значения гаммы, в единицах API, повлияет следующее изменение параметров и поправочных коэффициентов: буровой раствор был утяжелён с 1.2 г/см3 до 1.5 г/см3, с отображением в поправочных коэффициентах." expand="false" type="slide" />
+            <slidelink slideid="_player.6Itm9eGYZL5.6KTc34ciP3T" displaytext="Как на выходные значения гаммы, в единицах API, повлияет следующее изменение параметров и поправочных коэффициентов: увеличилось содержание KCL в растворе, без отображения в поправочных коэффициентах:" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6gbhRhi713u" displaytext="Part3 - Density Porosity Images and Geosteering" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6gbhRhi713u.6p46Yz3h1SW" displaytext="Традиционные приборы LWD и их измерения." expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6NyYSufPkZc" displaytext="Содержание" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6aDWo19Ysp1" displaytext="Плотностной каротаж (ГГКп)" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6a7LEhUAtfJ" displaytext="Плотностной Гамма каротаж (ГГКп) – особенности детектора" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6geiMN6byy2" displaytext="Плотностной Гамма каротаж (ГГКп) - особенности измерения" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.634aSGxv1mh" displaytext="Пример: прибор LithoFusion, компании Oliden Technologies" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.5cOhc53nmtf" displaytext="Компенсация измерения плотности" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.61fWjMIsFwI" displaytext="Применение ГГКп" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6C1MT1mLo6G" displaytext="Нейтрон-нейтронный каротаж (ННК)" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.5WmjtBTddpz" displaytext="Нейтрон-нейтронный каротаж (ННК) - особенности детектора" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6JP0BRTgFri" displaytext="Нейтрон-нейтронный каротаж (ННК) - особенности измерения" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6fDb0szCxT0" displaytext="Нейтрон-нейтронный каротаж (ННК) - применение поправок" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6ZnsufkiYEK" displaytext="Применение ННК и ГГКп: совместимые шкалы" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.5bd9SzVuSpz" displaytext="Используя формулу Арчи, по данным каротажа, оцените процент содержания углеводородов в коллекторе и введите значение в поле внизу страницы" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6fFp6OT1sfC" displaytext="Определение азимутального положения" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6I3ngqrzIIu" displaytext="Развертка" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6qvG4l56HxU" displaytext="Развертка: интерпретация" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6AzqHNAMg6r" displaytext="Развертка: интерпретация" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6JHxlgt9HLk" displaytext="Геонавигация с применением ИКЗ" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.5zYymffWjht" displaytext="Специализированные приборы LWD для геонавигации" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.5kBUkOPeJhh" displaytext="Специализированные приборы LWD для геонавигации" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.61zazIAVafW" displaytext="Резюме" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.6ietuWUFyUk" displaytext="Проверка понимания" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.5werR7V3UGE" displaytext="По образцу каротажа определите предполагаемую матрицу, эффект глин, интервалы коллектора содержащие газ, жидкие углеводороды и зону обводнения" expand="false" type="slide" />
+            <slidelink slideid="_player.6gbhRhi713u.5vQJFBlu13D" displaytext="По образцу каротажа определите предполагаемую матрицу, эффект глин, интервалы коллектора содержащие газ, жидкие углеводороды и зону обводнения" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Mm9bV8XNdo" displaytext="Part4 - Sonic" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Mm9bV8XNdo.5vjSbTRpZCq" displaytext="Приборы LWD акустического каротажа." expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.5vmXS9iD4Li" displaytext="Содержание" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.5Xng5EW1CrK" displaytext="Акустический каротаж(АК)" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.6pqGlHcEbDS" displaytext="Принцип АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.5kHSm0hk0ZZ" displaytext="Типовые замедления при АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.68aJSr4nZh9" displaytext="Реализация измерения АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.630bRe7qFKb" displaytext="STC (замедление-время-когерентность)" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.6h2xqFLJcuq" displaytext="Принцип АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.6VqytskoutX" displaytext="Суммирование и сигнал для измерения" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.5e6szflODDO" displaytext="Приборы АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.6aR73Bd4Tl0" displaytext="Подготовка прибора АК к рейсу" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.5mwIAD5X9Ny" displaytext="Контроль качества АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.681fmWZSbDF" displaytext="Контроль качества АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.6PBsVcPZMMt" displaytext="Контроль качества АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.5kuTWFzpkk1" displaytext="Контроль качества АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.5t6D2j3zF3x" displaytext="Применение АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.5er9CGTxlHt" displaytext="Применение АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.5u250ig04q0" displaytext="Применение АК" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.6XLnHsqtYk9" displaytext="Операционные ограничения" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.6Yda7n2Ebgc" displaytext="Упражнение" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.5ySeorAbmEj" displaytext="Упражнение. Решение." expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.6CQSy9TShq1" displaytext="Упражнение. Решение." expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.6gABURdqktN" displaytext="Упражнение. Решение." expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.5kx6eHuzxuT" displaytext="Упражнение. Решение." expand="false" type="slide" />
+            <slidelink slideid="_player.6Mm9bV8XNdo.6rknr3PjreI" displaytext="Резюме" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6mqdHjIJFEi" displaytext="Part5 - FPWD-FSWD" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6mqdHjIJFEi.6iFmFDeyLlh" displaytext="Измерение пластового давления и взятие образца пластового флюида (оценка свойств флюида) в процессе бурения" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.67I85dofogr" displaytext="Содержание" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6C7DD6tCuXL" displaytext="Замер давления пластового флюида" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6oFyjQI5DqJ" displaytext="Забор пластового флюида" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6TbkTxmPFod" displaytext="Причины применения технологий" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6kRcMisavxt" displaytext="Оценка проницаемости" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.5VtxYKmxTqW" displaytext="Существующие технологии – измерение пластового давления" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6jRd5xEjIsQ" displaytext="Существующие технологии – отбор пластового флюида" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6IDmfva5UGv" displaytext="Анализ состава пластового флюида во время бурения" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6oc9SYqOWhL" displaytext="Анализ состава пластового флюида во время бурения" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6RdNCCBHkxb" displaytext="Забор образца пластового флюида во время бурения" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6Yr7VO7IBKB" displaytext="Предрейсовые проверки и подготовка приборов" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6JqnsEOJ7Dd" displaytext="Критические проверки до рейса" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.5bt9cPrWbW7" displaytext="Последовательность действий при измерениях" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6riAGWGEjJO" displaytext="Последовательность действий при отборе пластового флюида" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6qVHHpWH1aH" displaytext="Проблемы при измерениях" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.64zvE5jnnsQ" displaytext="Методы решения проблем" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6B666PWNebP" displaytext="Проблемы при измерениях" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6aETvDRMa4F" displaytext="Проблемы при измерениях" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6ReJYhEHbSY" displaytext="Образец «сухого теста»" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6o0Ycp7ia4R" displaytext="Пропись корреляции для замера пластового давления" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.63MUuTBXQ6r" displaytext="Проблемы при измерениях" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6CUcBSB104e" displaytext="Проблемы при измерениях" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6bFqPkpcaPS" displaytext="Представление данных" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.6SbedgT5f0y" displaytext="Резюме" expand="false" type="slide" />
+            <slidelink slideid="_player.6mqdHjIJFEi.5WqX3PkL6xS" displaytext="Поставьте в соответствие замерам формы изменения давления" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6rJoQ5bXE0P" displaytext="Part6 - NMR" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6rJoQ5bXE0P.5hHiIkcOGwA" displaytext="Приборы Ядерно-Магнитного каротажа в процессе бурения" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.6CwThSFMCvF" displaytext="Содержание" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.5gDCy9UyfK3" displaytext="Ядерный Магнитный Резонанс" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.6XWFmlBKNkE" displaytext="Ядерный Магнитный Каротаж" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.5YhxLiMZhQ6" displaytext="Ядерный Магнитный Каротаж" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.6ceFGRtw4s6" displaytext="Ядерный Магнитный Каротаж" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.5etgzm6e1jU" displaytext="Ядерный Магнитный Каротаж - проницаемость" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.5x0eQ7ya9SZ" displaytext="Преимущество Т1 и Т2 вместе" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.6eK9G9kBFMW" displaytext="Упражнение" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.5s4MHLcKqMp" displaytext="Приборы ЯМК. Общие элементы" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.6iqoFG79P9N" displaytext="Приборы ЯМК" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.5iOo7E8Ndxb" displaytext="Факторы влияющие на измерения" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.5qQAKfVIoIS" displaytext="Предрейсовые проверки и подготовка прибора" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.6bynvICtPSM" displaytext="Сборка КНБК, спуск и бурение с прибором" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.6B1vktGEo9A" displaytext="Турбина, как источник питания приборов" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.6r6swpICS9W" displaytext="Работа с приборами с турбинами. Возможные проблемы" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.5qa725Qaiwv" displaytext="Варианты приборов с турбинами в КНБК" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.6GKFCj4nAi9" displaytext="Упражнение. Решение" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.68VW3A9q3BU" displaytext="Упражнение. Решение" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.6Z6cBnQDMgJ" displaytext="Резюме" expand="false" type="slide" />
+            <slidelink slideid="_player.6rJoQ5bXE0P.61R1oZkSElB" displaytext="Прибор спускается со скоростью 1000 м/ч до глубины 3000 метров без циркуляции, запись данных в память не производится т.к. приборы питаются от турбины телеметрии и от собственной турбины (ЯМК).&#xA;После достижения глубины 3000м, запускается циркуляция, и прибор ЯМК начинает запись с использованием памяти 4 Мб/ч. В таком режиме прибор будет находится всё время бурения. Пробурить планируется 3000 метров, с МСП 30 м/ч, длина свечи 30м, время наращивания 15 минут.&#xA;После достижения планового забоя, с целью перепроверки данных записи, прибор переводится в режим ускоренной записи с использованием памяти 8 Мб/ч и немедленно начинается подъём с обратной проработкой (т.е. с циркуляцией), со скоростью 300 м/ч, на выкидывание свечи уходит 6 минут. По достижении башмака ОК с глубины 3000м, приборы поднимаются без циркуляции.&#xA;&#xA;Сколько Мб памяти будет израсходовано? Введите число:&#xA;&#xA;&#xA;Если памяти прибора 1000 Мб, хватит ли памяти на такую программу?" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6eFF8t9bL5q" displaytext="Part7 - PNG" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6eFF8t9bL5q.6MiGkpRbLzc" displaytext="Продвинутые технологии каротажей в процессе бурения" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6rU1VwgkDap" displaytext="Содержание" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6JEd8opIymi" displaytext="Импульсный нейтронный каротаж" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6iHr54cKFRm" displaytext="Устройство генератора" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6nuvo2tl1VG" displaytext="Импульсный нейтронный каротаж. " expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6IVUgjODdji" displaytext="Измерения, возможные с импульсным нейтронным генератором" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.5k68ZKc9ZCX" displaytext="Спектроскопия" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6n3B6mwwzwh" displaytext="Спектроскопия" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.5htC7iszKNE" displaytext="Сигма (сечение поглощения)" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.5VqaTqhkjRU" displaytext="Сигма (сечение поглощения)" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6lYPfQYWAV6" displaytext="Применение измерений Сигмы (сечение поглощения)" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.5eGAOejSlkr" displaytext="Работа с приборами, содержащими импульсные-нейтронные генераторы" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6CFaXJkmZTr" displaytext="Загрязнение прибора тритием" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6GnUALGHU3F" displaytext="Существующие технологии LWD с нейтронным генератором" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.5eOJfRgCZtx" displaytext="Операционные ограничения прибора EcoScope" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.69dqpzbJfrg" displaytext="Техника Безопасности при Работе с Источниками Ионизирующего Излучения" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6jy9H8qvTJ9" displaytext="Техника Безопасности при Работе с Источниками Ионизирующего Излучения" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.5sOzOzfAPzO" displaytext="Техника Безопасности при Работе с Источниками Ионизирующего Излучения" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6rLGDPUpyDk" displaytext="Техника Безопасности при Работе с Источниками Ионизирующего Излучения" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6oxyHVHRSO1" displaytext="Проверка понимания" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6eyrTIneiHA" displaytext="Резюме" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6Lg7gi0zCsP" displaytext="Согласны ли вы со следующим утверждением: безопаснее произвести манипуляции с источником (загрузка / выгрузка) быстрее подручными средствами, чем провести с ним больше времени, но используя специальный длинный манипулятор?" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.6aKb46jt5iW" displaytext="Согласны ли вы со следующим утверждением: основное преимущество использования прибора с импульсным нейтронным генератором для каротажей в процессе бурения – отсутствие химического источника ионизирующего излучения?" expand="false" type="slide" />
+            <slidelink slideid="_player.6eFF8t9bL5q.5qi8JfYWoLp" displaytext="Согласны ли вы со следующим утверждением: при работе импульсного нейтронного генератора, создаётся больше нейтронов с большим уровнем энергии, чем при использовании химического источника нейтронов?" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5qzXOAxUS0x" displaytext="Part8 - Interpretation and Decision making" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5qzXOAxUS0x.6PsvLXOITkV" displaytext="Интерпретация данных и принятие решений" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5argJUFgYy4" displaytext="Содержание" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5lqRsVPExPE" displaytext="Отказы приборов LWD. Причины" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5t41p2zv9SH" displaytext="Отказы приборов LWD. Операционные параметры" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6c1Ll87X76G" displaytext="Промыв элементов КНБК" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5WkrO7LI6pH" displaytext="Операционные параметры. Пример." expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5eSAxz28q0h" displaytext="Операционные параметры: интенсивность (DLS)" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6GqQQLcXTY4" displaytext="Операционные параметры: кольматант (LCM)" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6ZoKO8OBl4C" displaytext="Проверка понимания" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6MTmpXmOGsT" displaytext="Отказы приборов LWD. Шоки и вибрации" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5olOCudWDxC" displaytext="Ударные воздействия (шоки)" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6EECTXqqfVB" displaytext="Периодические воздействия (вибрации)" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.60Av0viJQ1m" displaytext="Вибрации (продолжение)" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5wPSTdERgUr" displaytext="Прерывистое вращение (stick-n-slip)" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5ZWhrYFwDVf" displaytext="Последствия прерывистого вращения и устранение" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6cuyJcHWjU6" displaytext="Действия по устранению и уменьшению шоков и вибраций" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5mfowoHbJzd" displaytext="Датчики шоков в приборах LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.626GYdYjrn2" displaytext="Пример мониторинга шоков и вибраций" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6QZPdKZ0gai" displaytext="Датчики механики бурения в КНБК" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6inAE0KEwWM" displaytext="Каротаж механики бурения" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.65enLLtnKZr" displaytext="Образец механического каротажа" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5eHJbrrXhwQ" displaytext="Проверка понимания: что происходит?" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6EOvKTWK4FI" displaytext="Действия при превышении параметров эксплуатации приборов" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6bpuFwpxK3s" displaytext="Человеческий фактор" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5hTdE6BGzN7" displaytext="Расчёт момента на затяжку приборов" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5rQXOx5HIJD" displaytext="Проверка понимания" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6Dkk3TV5jJT" displaytext="Идентификация отказов приборов LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6iI2bxDX8TW" displaytext="Рекомендованные способы по уменьшению вероятности ошибок" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6nQo90TviEs" displaytext="Ожидаемое поведение приборов LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6O3rvdwZoOS" displaytext="Проверка понимания:" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5ZQIyCW0frv" displaytext="Резюме" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.60nh7RAve8e" displaytext="Всё ли в порядке с приборами ИК, измерения которого представлены на каротаже?" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6j8F5UaixFf" displaytext="Всё ли в порядке с прибором ИК, измерения которого представлены на каротаже?" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5bmQTMmslY3" displaytext="Дано: немагнитные элементы с резьбами типа З-102 (NC38, 3 ½ IF), внешний диметр муфты 121 мм (4 3/4 дюйма), внутренний диаметр ниппеля 57 мм (2 1/4 дюйма). Подберите соответствующий момент на затяжку (см. таблицу ниже), при условии, что будет использоваться смазка с коэффициентом 15%.&#xA;Введите расчитанное значение с учетом коэффицента смазки, либо в фут-сила фунтах, либо в ньютон-метрах (1 фунт-сила.фут = 1.356 Н.м):" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5uBOstuMR6t" displaytext="Укажите, что за проблема видна на механическом каротаже?" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.642CNPJcZdw" displaytext="Бурильный инструмент: 127мм внешний диаметр, 109мм внутренний диаметр (ID), L=2865м.&#xA;КНБК: 203мм внешний диаметр, 77мм внутренний диаметр, L=183м&#xA;Обсадная колонна: 340мм внешний диаметр, 320мм внутренний диаметр, башмак ОК 1372м&#xA;Диаметр скважины: 311мм.&#xA;Насосы: триплексные, 178мм на 305мм, 21.6 литра при 95% эффективности.&#xA;Через сколько ходов насоса, прокачиваемый кольматант достигнет верха КНБК (т.е. когда необходимо понизить расход)?&#xA;Шаг 3: Рассчитайте и введите объём кольцевого пространства, через которое должен пройти кольматант:, в кубических метрах с точностью до двух знаков:" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.5iv4MZ6jtA0" displaytext="Бурильный инструмент: 127мм внешний диаметр, 109мм внутренний диаметр (ID), L=2865м.&#xA;КНБК: 203мм внешний диаметр, 77мм внутренний диаметр, L=183м&#xA;Обсадная колонна: 340мм внешний диаметр, 320мм внутренний диаметр, башмак ОК 1372м&#xA;Диаметр скважины: 311мм.&#xA;Насосы: триплексные, 178мм на 305мм, 21.6 литра при 95% эффективности.&#xA;Через сколько ходов насоса, прокачиваемый кольматант достигнет верха КНБК (т.е. когда необходимо понизить расход)?&#xA;Шаг 4: Рассчитайте и введите количество ходов насоса, для прокачки кольматанта, целое число:" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6T3P2fyXWNL" displaytext="Бурильный инструмент: 127мм внешний диаметр, 109мм внутренний диаметр (ID), L=2865м.&#xA;КНБК: 203мм внешний диаметр, 77мм внутренний диаметр, L=183м&#xA;Обсадная колонна: 340мм внешний диаметр, 320мм внутренний диаметр, башмак ОК 1372м&#xA;Диаметр скважины: 311мм.&#xA;Насосы: триплексные, 178мм на 305мм, 21.6 литра при 95% эффективности.&#xA;Через сколько ходов насоса, прокачиваемый кольматант достигнет верха КНБК (т.е. когда необходимо понизить расход)?&#xA;Шаг 1: Рассчитайте и введите объем кольцевого пространства между КНБК и стенкой скважины в кубических метрах, с точностью до двух знаков:" expand="false" type="slide" />
+            <slidelink slideid="_player.5qzXOAxUS0x.6rUNMIsnUrs" displaytext="Бурильный инструмент: 127мм внешний диаметр, 109мм внутренний диаметр (ID), L=2865м.&#xA;КНБК: 203мм внешний диаметр, 77мм внутренний диаметр, L=183м&#xA;Обсадная колонна: 340мм внешний диаметр, 320мм внутренний диаметр, башмак ОК 1372м&#xA;Диаметр скважины: 311мм.&#xA;Насосы: триплексные, 178мм на 305мм, 21.6 литра при 95% эффективности.&#xA;Через сколько ходов насоса, прокачиваемый кольматант достигнет верха КНБК (т.е. когда необходимо понизить расход)?&#xA;Шаг 2: Рассчитайте и введите объем кольцевого пространства между бурильной трубой и стенкой скважины, в кубических метрах с точностью до двух знаков:" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5dgUyMaQi7Y" displaytext="Part9 - HSE" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5dgUyMaQi7Y.5uzB3cN7myZ" displaytext="Охрана труда и техника безопасности при производстве работ с приборами LWD на буровой" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.6VyiR7u5QST" displaytext="Содержание" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.5yONfTLkcAy" displaytext="Общие опасности*" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.6CqrdEMcqLa" displaytext="Размещение оборудования на буровой" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.5jBtl1ckTQM" displaytext="Погрузка и выгрузка оборудования" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.6LDjKYaiHk9" displaytext="Общие меры по обеспечению охраны труда и техники безопасности" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.6dlRF63Q3QJ" displaytext="СИЗ" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.6GXN7x7nrTv" displaytext="Специфические опасности: Литиевые батареи" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.6estI9DHWxF" displaytext="Депассивация литиевых батарей" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.5VPFwiCJ58d" displaytext="Депассивация литиевых батарей. Меры безопасности." expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.5V2WTWr272H" displaytext="Хранение литиевых батарей. Меры безопасности." expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.5kpldgeqU8Q" displaytext="Работа с источниками ионизирующего излучения." expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.6XEDNXMc7ck" displaytext="Работа с источниками ионизирующего излучения." expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.6kjHil2BAmE" displaytext="Зоны ограничения доступа на буровой при работе с ИИИ" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.6i4Fz0GnSlr" displaytext="Оценка рисков и меры по их минимизации" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.6BgknZBSf9m" displaytext="Оценка рисков и меры по их минимизации. Образец" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.66JU9uEpcJ4" displaytext="Матрица оценки рисков" expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.5lQvuitMCEb" displaytext="Иерархия контроля над рисками." expand="false" type="slide" />
+            <slidelink slideid="_player.5dgUyMaQi7Y.5rHSXe0KS3l" displaytext="Резюме" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5mDGXCL1cnt" displaytext="Part10 - Future and Sustainability" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5mDGXCL1cnt.5sLs6eumFBw" displaytext="Будущее технологий LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.5XQcCJAG8Jh" displaytext="Содержание" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.6Op63FYDgYC" displaytext="Современные* технологии* и продукты* LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.5woofLiPczo" displaytext="Новые продукты на основе существующих технологий" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.5xNvaJ6hVai" displaytext="Спектральный ГК" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.5iA4j6WSx8M" displaytext="ЯМР измерения" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.63AIHDFzOMW" displaytext="Каротажи в условиях высокой температуры и давления" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.6L5WOHBBDPK" displaytext="Новые технологии LWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.6RDpq7MT906" displaytext="Отбор и идентификация пластового флюида" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.5b0FYaEXZTF" displaytext="Имиджи удельного сопротивления высокого разрешения с раствором на углеводородной основе " expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.5y8oqoXnMNy" displaytext="Многополюсные акустические измерения" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.60aNtMKDDXi" displaytext="Геонавигация и картирование коллектора" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.6hTnK8cBVde" displaytext="Прогнозы" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.6M2uz3rGELe" displaytext="Затраты на НИОКР" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.5fGZiMBj9Ze" displaytext="Патентные заявки 3 крупнейших компаний (HAL, SLB, BKR)" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.6R2JfHDjYsN" displaytext="Патентные заявки 3 крупнейших компаний " expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.6CUwTxAaeak" displaytext="Патентные заявки 3 крупнейших компаний " expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.5rQuj75px3I" displaytext="Патентные заявки небольших компаний MLWD" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.6bUnc21SvpF" displaytext="Бурение для добычи «редких» металлов" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.6ovWeu5WP8X" displaytext="Бурение скважин для хранения углекислого газа (CO2)" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.6lc6sRhSBM8" displaytext="Бурение геотермальных скважин" expand="false" type="slide" />
+            <slidelink slideid="_player.5mDGXCL1cnt.5v2aJBXzxVL" displaytext="Резюме" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+  </nav_data>
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
